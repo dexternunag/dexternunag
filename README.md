@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dexter</h1>
 <h3 align="center">A passionate Software Engineer from Philippines. I love to create websites/web-applications, paying close attention to all the small details. Also I enjoy doing programming in several coding languages, solving problems, and even doing occasional design work.</h3>
 
-- 🌱 I’m currently learning **Latest React, Graphql, Nodejs, Express**
+- 🌱 I’m currently learning **Latest React, Graphql, Redux, Typescript**
 
 - 📫 How to reach me **nunagdexter@gmail.com**
 
